@@ -29,7 +29,7 @@
    <a href = "https://www.instagram.com/rodrigolimask8/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
  
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/rodrigolima96/output/github-contribution-grid-snake.svg)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/rodrigolima96/rodrigolima96/output/github-contribution-grid-snake.svg)
 
  
 </div>
