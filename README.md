@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with .net mvc
 - 🌱 I’m currently learning Flutter
 
 <div align="center">
