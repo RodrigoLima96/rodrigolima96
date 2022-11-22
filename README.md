@@ -25,7 +25,6 @@
     <a href="https://www.linkedin.com/in/rodrigo-lima96" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:rodrigolima9657@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://twitter.com/RodrigoLima96"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-   <a href = "https://www.instagram.com/rodrigolimask8/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
  
   ![github contribution grid snake animation](https://raw.githubusercontent.com/rodrigolima96/rodrigolima96/output/github-contribution-grid-snake.svg)
